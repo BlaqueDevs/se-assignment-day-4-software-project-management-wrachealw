@@ -22,7 +22,7 @@ That is how to build and effective software that will be used to benefit the soc
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 it shows what the goal is. enabling finding the solutions and the process creation easy.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-by using illastrations and showing relatable examples that touch the audience and explains the use and functionality of the software.
+by using illastrations and showing relatable examples that touch the audience and explains the use and functionality of the software..
 ## 11. What are the main features or functionalities that make your software stand out?
 being user friendly and relatable to the targeted market. also updates and modifications.
 ## 12. What data is available regarding the market size and growth potential for your software?
